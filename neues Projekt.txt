@@ -1,0 +1,22 @@
+Projekt Backup
+
+Wir erstellen eine Seite die Kundendaten in eine Datenbank abspeichert. 
+
+In dieser Ablikation müssen die Daten ausgefüllt werden und am Schluss durch eine Unterschrift Signatur 
+bestätigt und als Bit-Map abgespeichert werden.
+Wenn der Kunde Fertig ist, soll eine automatisch generierte Email an ihm versendet werden.  
+
+Kundendaten: Vorname, Nachname, Kundennummer, email, Signatur
+
+Wir müssen rechechieren mit welcher Technologie dieses Projekt durchfürbar ist. 
+
+Wir werden auf die Technolgien Razor Pages oder Blazor Pages, die wir in der Schule lernen, zurückzugreifen.
+Wir werden uns mit Flatter, Scrum, und Git beschäftigen
+
+|Kundendaten|
+|---|---|---|
+|Vorname|
+|Nachname|
+|Kundennummer|
+|Email|
+|Signatur|
