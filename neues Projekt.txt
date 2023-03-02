@@ -6,12 +6,14 @@ In dieser Ablikation müssen die Daten ausgefüllt werden und am Schluss durch e
 bestätigt und als Bit-Map abgespeichert werden.
 Wenn der Kunde Fertig ist, soll eine automatisch generierte Email an ihm versendet werden.  
 
-Kundendaten: Vorname, Nachname, Kundennummer, email, Signatur
+Kundendaten: Vorname, Nachname, Kundennummer, Email, Signatur
 
 Wir müssen rechechieren mit welcher Technologie dieses Projekt durchfürbar ist. 
 
 Wir werden auf die Technolgien Razor Pages oder Blazor Pages, die wir in der Schule lernen, zurückzugreifen.
-Wir werden uns mit Flatter, Scrum, und Git beschäftigen
+Wir werden uns mit LaTex, Scrum, und Git beschäftigen.
+
+
 
 |Kundendaten|
 |---|---|---|
