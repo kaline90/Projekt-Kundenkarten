@@ -15,10 +15,10 @@ Wir werden uns mit LaTex, Scrum, und Git beschäftigen.
 
 
 
-|Kundendaten|
-|---|---|---|
-|Vorname|
-|Nachname|
-|Kundennummer|
-|Email|
-|Signatur|
+Kundendaten
+
+Vorname
+Nachname
+Kundennummer
+Email
+Signatur
